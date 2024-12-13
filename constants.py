@@ -1,0 +1,45 @@
+L0_CONCEPTS = [
+  'Art',
+  'Biology',
+  'Business',
+  'Chemistry',
+  'Computer science',
+  'Economics',
+  'Engineering',
+  'Environmental science',
+  'Geography',
+  'Geology',
+  'History',
+  'Materials science',
+  'Mathematics',
+  'Medicine',
+  'Philosophy',
+  'Physics',
+  'Political science',
+  'Psychology',
+  'Sociology'
+]
+
+L0_GROUPINGS = [
+  set(['Biology',
+       'Chemistry',
+       'Computer science',
+       'Engineering',
+       'Environmental science',
+       'Geography',
+       'Geology',
+       'Mathematics',
+       'Materials science',
+       'Medicine',
+       'Physics',
+       'Psychology']),
+  set(['Art',
+       'Business',
+       'Economics',
+       'History',
+       'Philosophy',
+       'Political science',
+       'Psychology',
+       'Sociology'])
+]
+
